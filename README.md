@@ -59,4 +59,4 @@ pip install beautifulsoup4 selenium pandas
 ## 🧑‍💻 Author
 
 **Nazeer Aman**  
-GitHub: [@your-username](https://github.com/NazeerAman)
+GitHub: [@yNazeerAman](https://github.com/NazeerAman)
