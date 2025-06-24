@@ -48,7 +48,7 @@ pip install beautifulsoup4 selenium pandas
 ## 📁 File Structure
 
 ```plaintext
-.
+infinix-daraz-scraper/
 ├── infinix_daraz_scraper.ipynb   
 ├── README.md                   
 ├── requirements.txt              
