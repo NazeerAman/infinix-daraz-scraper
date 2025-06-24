@@ -30,7 +30,7 @@ The script scrapes multiple pages from Daraz's search results for the term "Infi
 Install dependencies using:
 
 ```bash
-pip install beautifulsoup4 selenium
+pip install beautifulsoup4 selenium pandas
 ```
 
 
