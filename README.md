@@ -52,7 +52,7 @@ infinix-daraz-scraper/
 ├── infinix_daraz_scraper.ipynb   
 ├── README.md                   
 ├── requirements.txt              
-├── first_page_infinix_phones.csv  \
+├── first_page_infinix_phones.csv
 └── infinix_phone_20Pages.csv
 ```
 
